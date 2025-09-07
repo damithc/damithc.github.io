@@ -29,6 +29,8 @@
     }
   ],
   "deploy": {
-    "message": "Site Update."
+    "message": "Site Update.",
+    "repo": "https://github.com/damithc/damithc.github.io.git",
+    "branch": "gh-pages"
   }
 }
