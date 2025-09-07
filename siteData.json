@@ -1,0 +1,23 @@
+{
+  "enableSearch": true,
+  "pages": [
+    {
+      "src": "404.md",
+      "title": "Page not found",
+      "headings": {},
+      "headingKeywords": {}
+    },
+    {
+      "src": "index.md",
+      "title": "Damith Chatura RAJAPAKSE",
+      "headings": {
+        "awards": "Awards",
+        "projects": "Projects",
+        "books": "Books",
+        "teaching": "Teaching",
+        "research": "Research"
+      },
+      "headingKeywords": {}
+    }
+  ]
+}
