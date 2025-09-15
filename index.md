@@ -10,7 +10,7 @@
     </div>
     <div class="col">
 
-Associate Professor (Education), School of Computing, National University of Singapore<br>
+Associate Professor (Education), School of Computing, Department of Computer Science, National University of Singapore<br>
 PhD, Software Engineering, NUS, 2002-2006<br>
 BSc, Computer Science & Engineering, University of Moratuwa, 1996-2001<br>
 
@@ -25,6 +25,7 @@ BSc, Computer Science & Engineering, University of Moratuwa, 1996-2001<br>
 
 ## Awards
 
+* [Outstanding Educator Award 2025](https://www.nus.edu.sg/uawards/honour-roll/recipients/damith-chatura-rajapakse)
 * NUS Annual Teaching Excellence Honor Roll - 2013 to 2018
 * NUS Annual Teaching Excellence Award 2012
 * Faculty Teaching Honor Roll - 2013 to 2018
@@ -36,11 +37,11 @@ BSc, Computer Science & Engineering, University of Moratuwa, 1996-2001<br>
 
 ## Projects
 
-Project(s) |  Description |
+Project |  Description |
 --- | --- |
 [TEAMMATES](https://teammatesv4.appspot.com/) | An online feedback management system for education used by more than **1,200,000** users ([:fas-home: product website](https://teammatesv4.appspot.com/), [:fab-github: project website](https://github.com/teammates/teammates)). |
 [SE-EDU](https://se-education.org) | A collection of sample projects and other resources for SE students and teachers  ([:fas-home: website](https://se-education.org)).|
-[~~PowerPointLabs~~](http://www.comp.nus.edu.sg/~pptlabs/) now defunct | A productivity plugin for Microsoft Powerpoint estimated to have benefited more than **1,000,000** people ([:fas-home: product website](http://www.comp.nus.edu.sg/~pptlabs/), [:fab-github: project website](https://github.com/powerpointlabs/powerpointlabs)).|
+[~~PowerPointLabs~~](http://www.comp.nus.edu.sg/~pptlabs/) %%(now defunct)%% | A productivity plugin for Microsoft PowerPoint estimated to have benefited more than **1,000,000** people ([:fas-home: product website](http://www.comp.nus.edu.sg/~pptlabs/), [:fab-github: project website](https://github.com/powerpointlabs/powerpointlabs)).|
 [MarkBind](https://markbind.org) | A tool for generating educational websites from Markdown syntax. ([:fas-home: product website](https://markbind.org/), [:fab-github: project website](https://github.com/markbind/markbind)).|
 [RepoSense](https://reposense.org) | A tool to monitor contributions to multiple Git repositories. ([:fas-home: product website](https://reposense.org), [:fab-github: project website](https://github.com/reposense/reposense)).|
 [CATcher](https://github.com/CATcher-org/CATcher/) and [WATcher](https://github.com/CATcher-org/WATcher/) |  An app for anonymous peer testing of software products. ([:fas-home: product website](https://catcher-org.github.io/), [:fab-github: project website](https://github.com/CATcher-org/CATcher/)).|
@@ -48,26 +49,32 @@ Project(s) |  Description |
 
 ## Books
 
-{% for i in ['patterns', 'edubook', 'handbook', 'guide', 'tools', 'java', 'course'] %} <img src="images/{{ i }}-cover.png" height="250" class="mt-1 rounded"/>|{% endfor %}
----|---|---|---|---|---|---
-Available on Amazon | Available on Amazon, chapter author | Available on Amazon, chapter author | Online book | Online book | Out of print | Out of print
+{% for i in ['patterns', 'edubook', 'handbook', 'guide' ] %} <img src="images/{{ i }}-cover.png" height="250" class="mt-1 rounded"/>|{% endfor %}
+---|---|---|---|
+Available on Amazon | Available on Amazon, chapter author | Available on Amazon, chapter author | %%Online book (now offline)%%
+
+{% for i in ['tools', 'java', 'course'] %} <img src="images/{{ i }}-cover.png" height="250" class="mt-1 rounded"/>|{% endfor %}
+---|---|---
+%%Online book (now offline)%% | %%Out of print%% | %%Out of print%%
 
 ## Teaching
 
 * [CS2103/T - Software Engineering](https://www.comp.nus.edu.sg/~cs3281)
-* [CS3281&2 - Thematic Systems Project I & II](https://nus-cs3281.github.io/website/)
-* TIC2002 - Intro to Software Engineering
+* [CS3281 - Thematic Systems Project I](https://nus-cs3281.github.io/website/)
+* [CS3282 - Thematic Systems Project II](https://nus-cs3281.github.io/website/)
+* TIC2002 - Introduction to Software Engineering
+* CP3108A/B Independent Studies Courses (project supervision)
 
 Past:
 
-* TIC4001&2 - Software Engineering Practicum I & II
-* TE3201 - Software engineering
-* CS2113 - Software engineering and OOP
-* FMC1202 - The wonderfully weird world of software
+* TIC4001 - Software Engineering Practicum I
+* TIC4002 - Software Engineering Practicum II
+* TEE3201 - Software Engineering
+* CS2113 - Software Engineering and OOP
+* FMC1202 - Freshman Seminar: The Wonderfully Weird World of Software
 * CS1281 - C++ to Java
 * GEM1909 - Technology and Human Progress
-* CS3215 - Software engineering project (2006-2009)
-* CP3108B (Mozilla) - Academic advisor (2008-2010)
+* CS3215 - Software Engineering Project (2006-2009)
 * CS4217 - Software Development Technologies
 
 ## Research
