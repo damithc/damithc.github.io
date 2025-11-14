@@ -6,7 +6,7 @@
   <navbar type="dark">
     <a slot="brand" href="{{baseUrl}}/index.html" title="Home" class="navbar-brand">Home</a>
     <li><a href="{{baseUrl}}/index.html#awards" class="nav-link">Awards</a></li>
-    <li><a href="{{baseUrl}}/index.html#projets" class="nav-link">Projects</a></li>
+    <li><a href="{{baseUrl}}/index.html#projects" class="nav-link">Projects</a></li>
     <li><a href="{{baseUrl}}/index.html#books" class="nav-link">Books</a></li>
     <li><a href="{{baseUrl}}/index.html#teaching" class="nav-link">Teaching</a></li>
     <li><a href="{{baseUrl}}/index.html#research" class="nav-link">Research</a></li>
