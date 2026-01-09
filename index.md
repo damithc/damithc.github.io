@@ -39,12 +39,13 @@ BSc, Computer Science & Engineering, University of Moratuwa, 1996-2001<br>
 
 Project |  Description |
 --- | --- |
-[TEAMMATES](https://teammatesv4.appspot.com/) | An online feedback management system for education used by more than **1,200,000** users ([:fas-home: product website](https://teammatesv4.appspot.com/), [:fab-github: project website](https://github.com/teammates/teammates)). |
+[TEAMMATES](https://teammatesv4.appspot.com/) | An online feedback management system for education, used by more than **1.3 million** users ([:fas-home: product website](https://teammatesv4.appspot.com/), [:fab-github: project website](https://github.com/teammates/teammates)). |
+[Git-Mastery](https://git-mastery.org) | A learning resource and a companion app for learning Git  ([:fas-home: website](https://git-mastery.org)).|
 [SE-EDU](https://se-education.org) | A collection of sample projects and other resources for SE students and teachers  ([:fas-home: website](https://se-education.org)).|
-[~~PowerPointLabs~~](http://www.comp.nus.edu.sg/~pptlabs/) %%(now defunct)%% | A productivity plugin for Microsoft PowerPoint estimated to have benefited more than **1,000,000** people ([:fas-home: product website](http://www.comp.nus.edu.sg/~pptlabs/), [:fab-github: project website](https://github.com/powerpointlabs/powerpointlabs)).|
 [MarkBind](https://markbind.org) | A tool for generating educational websites from Markdown syntax. ([:fas-home: product website](https://markbind.org/), [:fab-github: project website](https://github.com/markbind/markbind)).|
 [RepoSense](https://reposense.org) | A tool to monitor contributions to multiple Git repositories. ([:fas-home: product website](https://reposense.org), [:fab-github: project website](https://github.com/reposense/reposense)).|
 [CATcher](https://github.com/CATcher-org/CATcher/) and [WATcher](https://github.com/CATcher-org/WATcher/) |  An app for anonymous peer testing of software products. ([:fas-home: product website](https://catcher-org.github.io/), [:fab-github: project website](https://github.com/CATcher-org/CATcher/)).|
+[~~PowerPointLabs~~](http://www.comp.nus.edu.sg/~pptlabs/) %%(now defunct)%% | A productivity plugin for Microsoft PowerPoint estimated to have benefited more than **1,000,000** people ([:fas-home: product website](http://www.comp.nus.edu.sg/~pptlabs/), [:fab-github: project website](https://github.com/powerpointlabs/powerpointlabs)).|
 
 
 ## Books
